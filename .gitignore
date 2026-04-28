@@ -13,5 +13,8 @@ wheels/
 # tensorboard logs
 logs
 
+# checkpoints
+checkpoints
+
 
 .DS_Store
